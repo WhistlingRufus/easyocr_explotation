@@ -1,0 +1,2 @@
+# easyocr_explotation
+easyocr_explotation

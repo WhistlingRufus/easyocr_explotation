@@ -1,0 +1,5 @@
+marimo
+numpy
+opencv-python
+matplotlib
+easyocr

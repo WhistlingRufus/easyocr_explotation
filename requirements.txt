@@ -1,7 +1,8 @@
-marimo
 numpy
 opencv-python
 matplotlib
 easyocr
 jupyter 
 notebook
+ultralytics
+mediapipe

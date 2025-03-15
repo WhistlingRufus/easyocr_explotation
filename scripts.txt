@@ -1,4 +1,4 @@
 conda create -n masterclass_ocr python=3.11
 conda activate masterclass_ocr
 pip install -r requirements.txt
-marimo edit first_look.py
+#marimo edit first_look.py
